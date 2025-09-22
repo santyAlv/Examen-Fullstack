@@ -1,0 +1,117 @@
+===============================================
+PALETA DE COLORES - ESCUELA TÉCNICA N°1
+===============================================
+
+🎨 COLORES PRINCIPALES
+===============================================
+
+BORGOÑA PRINCIPAL:
+- #7c2d12 (RGB: 124, 45, 18)
+  * Usado en: Logo, botones primarios, badges de cursos, gradiente 
+
+BORGOÑA SECUNDARIO:
+- #991b1b (RGB: 153, 27, 27)
+  * Usado en: Gradiente  banner
+  * Aplicación: Fondo degradado del banner principal
+
+===============================================
+
+🔘 COLORES NEUTROS
+===============================================
+
+BLANCOS Y GRISES CLAROS:
+- #ffffff (RGB: 255, 255, 255)
+  * Usado en: Fondo principal, tarjetas, botones secundarios
+  * Aplicación: Fondos principales, contenido
+
+- #f9fafb (RGB: 249, 250, 251)
+  * Usado en: Secciones alternativas, hover de navegación
+  * Aplicación: Fondos de secciones, estados hover
+
+- #f3f4f6 (RGB: 243, 244, 246)
+  * Usado en: Badges de edad
+  * Aplicación: Elementos informativos secundarios
+
+GRISES MEDIOS:
+- #e5e7eb (RGB: 229, 231, 235)
+  * Usado en: Bordes de tarjetas, separadores
+  * Aplicación: Líneas divisorias, bordes sutiles
+
+- #d1d5db (RGB: 209, 213, 219)
+  * Usado en: Bordes de botones móviles, texto footer
+  * Aplicación: Elementos de interfaz, texto secundario
+
+- #9ca3af (RGB: 156, 163, 175)
+  * Usado en: Texto de copyright, elementos deshabilitados
+  * Aplicación: Texto terciario, información secundaria
+
+===============================================
+
+📝 COLORES DE TEXTO
+===============================================
+
+TEXTOS PRINCIPALES:
+- #1f2937 (RGB: 31, 41, 55)
+  * Usado en: Títulos principales, texto de navegación, nombres
+  * Aplicación: Contenido principal, headings
+
+- #374151 (RGB: 55, 65, 81)
+  * Usado en: Badges de edad, fondos de redes sociales
+  * Aplicación: Elementos interactivos, fondos secundarios
+
+TEXTOS SECUNDARIOS:
+- #4b5563 (RGB: 75, 85, 99)
+  * Usado en: Párrafos descriptivos, contenido informativo
+  * Aplicación: Texto de cuerpo, descripciones
+
+- #6b7280 (RGB: 107, 114, 128)
+  * Usado en: Subtítulos, información complementaria, labels
+  * Aplicación: Texto de apoyo, metadatos
+
+===============================================
+
+🌟 COLORES DE ESTADO Y INTERACCIÓN
+===============================================
+
+HOVER:
+- rgba(0, 0, 0, 0.1) - Sombras sutiles
+- rgba(0, 0, 0, 0.1) - Sombras de tarjetas
+
+TRANSPARENCIAS:
+- rgba(124, 45, 18, 0.8) - Overlay borgoña con transparencia
+- opacity: 0.9 - Subtítulo del hero banner
+
+===============================================
+
+🎯 APLICACIÓN POR SECCIONES
+===============================================
+
+HEADER:
+- Fondo: #ffffff
+- Texto: #1f2937
+- Logo: #7c2d12 (fondo), #ffffff (icono)
+- Hover: #f9fafb (fondo), #7c2d12 (texto)
+
+BANNER:
+- Fondo: Gradiente #7c2d12 → #991b1b
+- Overlay: rgba(124, 45, 18, 0.8)
+- Texto: #ffffff
+- Botón primario: #ffffff (fondo), #7c2d12 (texto)
+- Botón secundario: transparente (fondo), #ffffff (texto y borde)
+
+TARJETAS DE ESTUDIANTES:
+- Fondo: #ffffff
+- Bordes: #e5e7eb
+- Títulos: #1f2937
+- Texto secundario: #6b7280
+- Badge edad: #f3f4f6 (fondo), #374151 (texto)
+- Badge curso: #7c2d12 (fondo), #ffffff (texto)
+
+FOOTER:
+- Fondo: #1f2937
+- Texto principal: #ffffff
+- Texto secundario: #d1d5db
+- Texto terciario: #9ca3af
+- Redes sociales: #374151 (fondo), #d1d5db (icono)
+- Hover redes: #7c2d12 (fondo), #ffffff (icono)
+

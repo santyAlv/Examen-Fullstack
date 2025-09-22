@@ -1,0 +1,17 @@
+===============================================
+PALETA DE COLORES - ESCUELA TÉCNICA N°1
+===============================================
+
+🎨 CONSIGNA
+===============================================
+-Realizar:
+    *BackEnd : NODE JS
+    *FrontEnd: REACT
+    *Documentacion: Caso de Uso de cada Sector
+Se debera entregar:
+    * Página Completa Funcionando.
+    * 2 Servidores: 
+        - BackEnd en el puerto 3000
+        - FrontEnd en el puerto generico determinado.
+TODO SE DEBERA ENTREGAR EN UN REPOSITORIO CON LOS DATOS DE COMO EJECUTAR LOS Servidores
+Y LOS INTEGRANTES
