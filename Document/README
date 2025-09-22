@@ -1,0 +1,15 @@
+ejecucion de archivo back end
+npm i express nodemon detenv sqlite3
+cd ./BackEnd
+node app.js
+
+
+ejecucion frontend
+npm i 
+npm axios 
+cd ./frontend
+npm run dev 
+
+integrantes 
+alvarez santiago
+cora alex
